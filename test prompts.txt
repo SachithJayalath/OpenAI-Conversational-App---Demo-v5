@@ -1,0 +1,1 @@
+Non Current Assets = {PPE, CIP Assets, Intangible Assets, Investment in subsidiaries, AR Control account & Prepaid (NC)}

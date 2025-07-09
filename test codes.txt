@@ -1,0 +1,8 @@
+# Get file content from the file ID
+file_content = client.files.content("relevant_records")
+
+# Read the content as bytes
+csv_data_bytes = file_content.read()
+
+placeholder2 = st.empty()
+placeholder2.markdown(csv_data_bytes.decode('utf-8'))
