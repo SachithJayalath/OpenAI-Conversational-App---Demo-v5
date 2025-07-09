@@ -10,7 +10,7 @@ import logging
 import time
 import pandas as pd
 from io import StringIO
-from streamlit_mic_recorder import speech_to_text
+# from streamlit_mic_recorder import speech_to_text
 import streamlit.components.v1 as components
 import os
 
